@@ -38,10 +38,6 @@ A classical neural network and a Bayesian neural network with **identical archit
 
 **Conclusion:** the extra computational cost is justified wherever reliable uncertainty quantification matters; when speed is the only priority, classical networks remain a solid alternative.
 
-## Contents
-
-- `thesis.pdf` – full thesis (theory, derivations, experiment and R code in Appendix B)
-
 ## Tools
 
 R 4.4.1 · nnet · bnns · Stan · nasapower
